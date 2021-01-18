@@ -71,7 +71,7 @@
 		};
 
 		self.loc = {
-			more: 'More',
+			more: 'Website',
 			search: 'Search',
 			zoomin: 'Zoom in',
 			zoomout: 'Zoom out',

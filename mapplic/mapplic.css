@@ -1034,7 +1034,7 @@ input.mapplic-search-input:focus {
 	line-height: 20px;
 	font-weight: 600;
 	display: inline-block;
-	float: right;
+	float: left;
 	margin-top: 4px;
 	padding: 4px 8px;
 	text-decoration: none;

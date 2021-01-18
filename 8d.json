@@ -37,6 +37,7 @@
 			"id": "shoes",
 			"title": "Shoes",
 			"about": "Wide wariety of shoes",
+			"icon": "https://raw.githubusercontent.com/NRogilvy/mapplic-test/main/images/shoe.svg",
 			"color": "#8DB3DC",
 			"style": "dark"
 		},
@@ -64,7 +65,7 @@
 				{
 					"id": "nordstrom",
 					"title": "Feit",
-					"about": "Lorem ipsum dolor sit amet.",
+					"about": "It's pronouced fight.",
          			"description": "<p>Recognizing the need is the primary condition for design.</p><strong>10:00 - 22:00</strong> <small>(Monday - Sunday)</small>",
 					"link": "https://www.feitdirect.com/",
 					"image": "https://raw.githubusercontent.com/NRogilvy/mapplic-test/main/images/mthumb.jpg",
@@ -78,6 +79,7 @@
 				{
 					"id": "macys",
 					"title": "Saint Laurent",
+					"about": "Get some fancy pants",
 					"description": "<p>Recognizing the need is the primary condition for design.</p><strong>10:00 - 22:00</strong> <small>(Monday - Sunday)</small>",
 					"category": "shoes",
 					"x": "0.2021",
@@ -86,11 +88,13 @@
 				},
 				{
 					"id": "jcpenney",
-					"title": "JCPenney",
+					"title": "ŞENER BESIM",
 					"about": "Lorem ipsum",
-					"description": "<p>Recognizing the need is the primary condition for design.</p><strong>10:00 - 22:00</strong> <small>(Monday - Sunday)</small>",
+					"description": "<p>Recognizing the need is the primary condition for design.</p><p>Recognizing the need is the primary condition for design.</p><strong>10:00 - 22:00</strong> <small>(Monday - Sunday)</small>",
 					"category": "shoes",
 					"link": "https://1.envato.market/R5Nv",
+					"image": "https://raw.githubusercontent.com/NRogilvy/mapplic-test/main/images/mthumb.jpg",
+					"thumbnail": "https://raw.githubusercontent.com/NRogilvy/mapplic-test/main/images/mthumb.jpg",
 					"x": "0.6651",
 					"y": "0.6734",
 					"zoom": "2"
