@@ -57,7 +57,7 @@
 		{
 			"id": "ground-floor",
 			"title": "Ground Floor",
-			"map": "maps/8d.svg",
+			"map": "https://raw.githubusercontent.com/NRogilvy/mapplic-test/main/maps/8d.svg",
 			"minimap": "maps/mall/mall-ground-mini.jpg",
 			"show": "true",
 			"locations": [
