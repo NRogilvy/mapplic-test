@@ -1,7 +1,7 @@
 {
 	"mapwidth": "1000",
 	"mapheight": "500",
-	"defaultstyle": "light",
+	"defaultstyle": "dark",
 	"styles": [
 		{
 			"class": "light",
@@ -44,6 +44,7 @@
 		{
 			"id": "jewelery",
 			"title": "Jewelery",
+			"about": "Jingle jangle & bangles",
 			"color": "#D3B8F8"
 		},
 		{
@@ -53,131 +54,127 @@
 			"legend": "false",
 			"hide": "true"
 		}
+
 	],
 	"levels": [
 		{
 			"id": "ground-floor",
 			"title": "Ground Floor",
-			"map": "https://raw.githubusercontent.com/NRogilvy/mapplic-test/main/maps/8d.svg",
+			"map": "maps/help.svg",
 			"minimap": "maps/mall/mall-ground-mini.jpg",
 			"show": "true",
 			"locations": [
 				{
-					"id": "nordstrom",
-					"title": "Feit",
-					"about": "It's pronouced fight.",
+					"id": "s1",
+					"title": "Bowls Baby",
+					"about": "Get some fancy pants",
+					"description": "<p>Recognizing the need is the primary condition for design.</p><strong>10:00 - 22:00</strong> <small>(Monday - Sunday)</small>",
+					"image": "https://source.unsplash.com/v113g-WnhTI/400x150",
+					"thumbnail": "https://raw.githubusercontent.com/NRogilvy/mapplic-test/main/images/mthumbf.jpg",
+					"category": "shoes",
+					"x": "0.4437",
+					"y": "0.1696",
+					"zoom": "2"
+				},
+				{
+					"id": "s2",
+					"title": "Nick & Noras",
+					"about": "Lorem ipsum",
+					"description": "At the corner of Happy & Healthy",
+					"image": "https://source.unsplash.com/v113g-WnhTI/400x150",
+					"thumbnail": "https://raw.githubusercontent.com/NRogilvy/mapplic-test/main/images/mthumbf.jpg",
+					"category": "health",
+					"x": "0.4389",
+					"y": "0.2086"
+				},
+				
+				{
+					"id": "s3",
+					"title": "Handpicked Wines",
+					"about": "Lorem ipsum",
+					"description": "<p>Makeup, fragrance, skincare</p><strong>10:00 - 22:00</strong> <small>(Monday - Sunday)</small>",
+					"image": "https://source.unsplash.com/v113g-WnhTI/400x150",
+					"thumbnail": "https://raw.githubusercontent.com/NRogilvy/mapplic-test/main/images/mthumbf.jpg",
+					"category": "health",
+					"link": "https://1.envato.market/R5Nv",
+					"x": "0.3704",
+					"y": "0.3885"
+				},
+				{
+					"id": "s4",
+					"title": "Maverick",
+					"about": "Lorem ipsum",
+					"description": "<p>Recognizing the need is the primary condition for design.</p><strong>10:00 - 22:00</strong> <small>(Monday - Sunday)</small>",
+					"category": "fashion",
+					"link": "https://1.envato.market/R5Nv",
+					"x": "0.4798",
+					"y": "0.1678"
+				},
+				{
+					"id": "s5",
+					"title": "People's Coffee",
+					"about": "Lorem ipsum",
+					"description": "<p>Recognizing the need is the primary condition for design.</p><strong>10:00 - 22:00</strong> <small>(Monday - Sunday)</small>",
+					"category": "fashion",
+					"x": "0.4877",
+					"y": "0.3956"
+				},
+				{
+					"id": "s6",
+					"title": "The Farmers Daughters",
+					"about": "Good Food",
+					"description": "<p>Recognizing the need is the primary condition for design.</p><strong>10:00 - 22:00</strong> <small>(Monday - Sunday)</small>",
+					"category": "fashion",
+					"x": "0.6074",
+					"y": "0.4499"
+				},
+				{
+					"id": "s7",
+					"title": "Upstate Coffee",
+					"about": "It's Coffee but Upstate",
+					"description": "<p>Some people think design means how it looks. But of course, if you dig deeper, it's really how it works.</p><strong>10:00 - 22:00</strong> <small>(Monday - Sunday)</small>",
+					"category": "fashion",
+					"x": "0.4664",
+					"y": "0.5129"
+				},
+				{
+					"id": "s8",
+					"title": "Georg Jensen",
+					"about": "Yeorge Yensen",
          			"description": "<p>Recognizing the need is the primary condition for design.</p><strong>10:00 - 22:00</strong> <small>(Monday - Sunday)</small>",
 					"link": "https://www.feitdirect.com/",
 					"image": "https://raw.githubusercontent.com/NRogilvy/mapplic-test/main/images/mthumb.jpg",
 					"thumbnail": "https://raw.githubusercontent.com/NRogilvy/mapplic-test/main/images/mthumb.jpg",
 					"category": "dep, fashion",
 					"style": "dark",
-					"x": "0.7856",
-					"y": "0.2022",
+					"x": "0.6043",
+					"y": "0.5884",
 					"zoom": "2"
 				},
 				{
-					"id": "macys",
-					"title": "Saint Laurent",
-					"about": "Get some fancy pants",
+					"id": "s9",
+					"title": "Feit",
+					"about": "It's pronouced Fight",
 					"description": "<p>Recognizing the need is the primary condition for design.</p><strong>10:00 - 22:00</strong> <small>(Monday - Sunday)</small>",
-					"category": "shoes",
-					"x": "0.2021",
-					"y": "0.5847",
-					"zoom": "2"
+					"category": "fashion",
+					"link": "https://1.envato.market/R5Nv",
+					"x": "0.5732",
+					"y": "0.6800"
 				},
 				{
-					"id": "jcpenney",
+					"id": "s10",
 					"title": "ŞENER BESIM",
-					"about": "Lorem ipsum",
+					"about": "I don't know how to say this",
 					"description": "<p>Recognizing the need is the primary condition for design.</p><p>Recognizing the need is the primary condition for design.</p><strong>10:00 - 22:00</strong> <small>(Monday - Sunday)</small>",
 					"category": "shoes",
 					"link": "https://1.envato.market/R5Nv",
 					"image": "https://raw.githubusercontent.com/NRogilvy/mapplic-test/main/images/mthumb.jpg",
 					"thumbnail": "https://raw.githubusercontent.com/NRogilvy/mapplic-test/main/images/mthumb.jpg",
-					"x": "0.6651",
-					"y": "0.6734",
+					"x": "0.5196",
+					"y": "0.6710",
 					"zoom": "2"
-				},
-				{
-					"id": "walgreens",
-					"title": "Farmers Daughters",
-					"about": "Lorem ipsum",
-					"description": "At the corner of Happy & Healthy",
-					"image": "https://source.unsplash.com/v113g-WnhTI/400x150",
-					"category": "health",
-					"x": "0.4611",
-					"y": "0.5426"
-				},
-				{
-					"id": "sephora",
-					"title": "Maverick",
-					"about": "Lorem ipsum",
-					"description": "<p>Makeup, fragrance, skincare</p><strong>10:00 - 22:00</strong> <small>(Monday - Sunday)</small>",
-					"image": "https://source.unsplash.com/v113g-WnhTI/400x150",
-					"category": "health",
-					"link": "https://1.envato.market/R5Nv",
-					"x": "0.7504",
-					"y": "0.5211"
-				},
-				{
-					"id": "geox",
-					"title": "Bowls Baby",
-					"about": "Lorem ipsum",
-					"description": "<p>Recognizing the need is the primary condition for design.</p><strong>10:00 - 22:00</strong> <small>(Monday - Sunday)</small>",
-					"category": "fashion",
-					"link": "https://1.envato.market/R5Nv",
-					"x": "0.3947",
-					"y": "0.5544"
-				},
-				{
-					"id": "hnm",
-					"title": "H&M",
-					"about": "Lorem ipsum",
-					"description": "<p>Recognizing the need is the primary condition for design.</p><strong>10:00 - 22:00</strong> <small>(Monday - Sunday)</small>",
-					"category": "fashion",
-					"x": "0.6445",
-					"y": "0.4478"
-				},
-				{
-					"id": "adidas",
-					"title": "Adidas",
-					"about": "Lorem ipsum",
-					"description": "<p>Recognizing the need is the primary condition for design.</p><strong>10:00 - 22:00</strong> <small>(Monday - Sunday)</small>",
-					"category": "fashion",
-					"x": "0.3688",
-					"y": "0.3909"
-				},
-				{
-					"id": "massimodutti",
-					"title": "Massimo Dutti",
-					"about": "Lorem ipsum",
-					"description": "<p>Some people think design means how it looks. But of course, if you dig deeper, it's really how it works.</p><strong>10:00 - 22:00</strong> <small>(Monday - Sunday)</small>",
-					"category": "fashion",
-					"x": "0.6243",
-					"y": "0.2655"
-				},
-				{
-					"id": "starbucks",
-					"title": "Starbucks",
-					"about": "Lorem ipsum",
-					"description": "<p>Enjoy today and every day with our creamy non-dairy beverage options.</p><strong>7:30 - 22:00</strong> <small>(Monday - Sunday)</small>",
-					"image": "https://source.unsplash.com/n-HtQS7IgU4/400x150",
-					"link": "https://www.mapplic.com/",
-					"category": "food",
-					"x": "0.5431",
-					"y": "0.5240"
-				},
-				{
-					"id": "zara",
-					"title": "Zara",
-					"about": "Lorem ipsum",
-					"description": "<p>Recognizing the need is the primary condition for design.</p><strong>10:00 - 22:00</strong> <small>(Monday - Sunday)</small>",
-					"category": "fashion",
-					"link": "https://1.envato.market/R5Nv",
-					"x": "0.4785",
-					"y": "0.2873"
 				}
+				
 			]
 		}
 	]

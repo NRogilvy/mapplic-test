@@ -3,7 +3,7 @@ html {
 }
 
 body {
-	background-color: #fff;
+	background-color: #0a0018;
 	color: #666;
 	font-family: 'Open Sans', sans-serif;
 	font-size: 14px;
@@ -225,6 +225,7 @@ ul p {
 .map-container {
 	margin: 0 auto;
 	margin-bottom: 60px;
+	height: 80vh;
 }
 
 .mapplic-external {
