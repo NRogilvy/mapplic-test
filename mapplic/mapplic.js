@@ -81,7 +81,7 @@
 			clearsearch: 'Clear search',
 			closepopup: 'Close popup',
 			clearfilter: 'Clear filter',
-			iconfile: 'mapplic/images/icons.svg'
+			iconfile: 'https://cdn.rawgit.com/NRogilvy/mapplic-test/main/mapplic/images/icons.svg'
 		}
 
 		self.el = element;
