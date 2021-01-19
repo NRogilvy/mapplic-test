@@ -60,7 +60,7 @@
 		{
 			"id": "ground-floor",
 			"title": "Ground Floor",
-			"map": "maps/help.svg",
+			"map": "https://raw.githubusercontent.com/NRogilvy/mapplic-test/main/maps/80c.svg",
 			"minimap": "maps/mall/mall-ground-mini.jpg",
 			"show": "true",
 			"locations": [
